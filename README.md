@@ -1,1 +1,1 @@
-# -Pneumonia-Image-Classification-from-Chest-X-Rays
+# -Pneumonia-Image-Classification-from-Chest Radiograph(CXR)
